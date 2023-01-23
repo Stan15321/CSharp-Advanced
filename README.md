@@ -1,4 +1,4 @@
-# C# Advanced
+# C# Advanced and OOP
 This is a repository for the cource C# Advanced in SoftUni.
 
 The course includes:
